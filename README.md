@@ -1,6 +1,3 @@
-# Automated-ETL-Pipeline-with-Docker-Airflow-PostgreSQL
-Automated ETL pipeline using Docker, Apache Airflow, PostgreSQL, Python, and Pandas with data quality checks and email notifications.
-
 # Automated ETL Pipeline with Docker, Airflow & PostgreSQL
 
 An end-to-end automated ETL pipeline built with **Python, Apache Airflow, PostgreSQL, Docker, Pandas, and MailHog**.
