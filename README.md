@@ -6,8 +6,7 @@ The project simulates a real-world Data Engineering workflow that extracts sales
 
 ## Architecture
 
-screenshots/Data_Pipeline_Architecture.png
-
+![Data Pipeline Architecture](screenshots/Data_Pipeline_Architecture.png)
 ## Technologies
 
 * **Python** — Data processing and ETL logic
