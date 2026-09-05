@@ -6,34 +6,7 @@ The project simulates a real-world Data Engineering workflow that extracts sales
 
 ## Architecture
 
-```text
-                    sales.csv
-                       |
-                       v
-                 Apache Airflow
-                       |
-                       v
-                    Extract
-                       |
-                       v
-              Transform & Validate
-                       |
-                       v
-                  PostgreSQL
-                       |
-                       v
-              Data Quality Check
-                  /          \
-                 /            \
-             SUCCESS          FAILURE
-                |                |
-                v                v
-          Success Email     Failure Email
-                 \              /
-                  \            /
-                   v          v
-                     MailHog
-```
+screenshots/Data_Pipeline_Architecture.png
 
 ## Technologies
 
