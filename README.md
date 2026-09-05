@@ -83,6 +83,7 @@ PostgreSQL General
 pgAdmin
 MailHog
 ```
+![Docker](screenshots/Docker.png)
 
 This allows the complete ETL environment to run locally without installing each service directly on the host machine.
 
