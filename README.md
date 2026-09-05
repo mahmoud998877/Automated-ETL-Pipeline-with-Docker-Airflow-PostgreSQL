@@ -148,6 +148,10 @@ For example:
 
 After triggering the DAG, the Data Quality Check should detect the negative price and mark the relevant task as failed.
 
+
+![Quality Check](screenshots/Quality_check.png)
+```
+
 A failure notification should then appear in MailHog.
 
 After testing, restore the valid value:
