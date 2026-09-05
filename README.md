@@ -162,6 +162,7 @@ After testing, restore the valid value:
 ```
 
 Run the pipeline again to verify a successful execution.
+![Airflow](screenshots/Airflow.png)
 
 ## Key Data Engineering Concepts
 
