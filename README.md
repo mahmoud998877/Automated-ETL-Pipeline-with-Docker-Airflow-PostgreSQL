@@ -150,7 +150,6 @@ After triggering the DAG, the Data Quality Check should detect the negative pric
 
 
 ![Quality Check](screenshots/Quality_check.png)
-```
 
 A failure notification should then appear in MailHog.
 
