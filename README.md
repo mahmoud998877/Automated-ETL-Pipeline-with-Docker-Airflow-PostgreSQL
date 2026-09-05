@@ -133,6 +133,7 @@ Open MailHog:
 ```text
 http://localhost:8025
 ```
+![MailHog](screenshots/MailHog.png)
 
 Then trigger the `sales_pipeline` DAG from the Airflow interface.
 
